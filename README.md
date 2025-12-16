@@ -1,0 +1,1 @@
+#this is new repo we are trying to use git init command
